@@ -1,4 +1,4 @@
-// src/componen/theme/ThemeProvider.tsx
+// src/components/theme/ThemeProvider.tsx
 "use client"
 
 import * as React from "react"
